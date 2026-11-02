@@ -1,12 +1,12 @@
 # Hey 👋 What's up?
 
-My name is **Isaac** and I'm a **Software Development student graduating at Adelaide University**.
+My name is **Isaac** and I'm a **Full-Stack Software Developer**.
 
 ## About me
 
 ✨ Creating bugs since **2023**<br>
 📚 I'm currently learning **how to become the best AI user I can be**<br>
-🎯 Goals: **Become a full stack developer and build a better world with technology**<br>
+🎯 Goals: **Become a better person and build a better world with technology**<br>
 🎲 Fun fact: **If I'm not coding, I'm probably on a basketball court 🏀**
 
 ## I code with
